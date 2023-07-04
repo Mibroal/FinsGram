@@ -310,7 +310,7 @@ hr {
 
 .title__h1::after {
     position: absolute;
-    content: url(assets/img/photo.png);
+    content: url(/FinsGram/assets/img/photo.png);
     left: 165px;
     top: 250px;
     width: 141px;
@@ -329,7 +329,7 @@ hr {
 .title__img {
     width: 525px;
     height: 525px;
-    background-image: url(assets/img/blur_4.svg);
+    background-image: url(/FinsGram/assets/img/blur_4.svg);
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center;
@@ -337,7 +337,7 @@ hr {
 
 .title__col2::before {
     position: absolute;
-    content: url(assets/img/star.svg);
+    content: url(/FinsGram/assets/img/star.svg);
     top: 16px;
     left: -49px;
     width: 98px;
@@ -402,7 +402,7 @@ hr {
 
 .about::before {
     position: absolute;
-    content: url(assets/img/back.svg.svg);
+    content: url(/FinsGram/assets/img/back.svg.svg);
     top: 52px;
     left: 0;
     z-index: -1;
@@ -417,14 +417,14 @@ hr {
 
 .about__container::after {
     position: absolute;
-    content: url(assets/img/star_white.svg);
+    content: url(/FinsGram/assets/img/star_white.svg);
     top: -29px;
     right: -26px;
 }
 
 .about__container::before {
     position: absolute;
-    content: url(assets/img/star.svg);
+    content: url(/FinsGram/assets/img/star.svg);
     bottom: -38px;
     left: -32px;
 }
@@ -497,7 +497,7 @@ hr {
 
 .about__row2__texts__second::after {
     position: absolute;
-    content: url(assets/img/_2.png);
+    content: url(/FinsGram/assets/img/_2.png);
     top: 122px;
     left: 475px;
 }
@@ -534,7 +534,7 @@ hr {
 
 .reasons__items::before {
     position: absolute;
-    content: url(assets/img/Vector.svg);
+    content: url(/FinsGram/assets/img/Vector.svg);
     top: 459px;
     left: -121px;
     z-index: -1;
@@ -626,7 +626,7 @@ hr {
 
 .reasons__item__last::after {
     position: absolute;
-    content: url(assets/img/Group_754.svg);
+    content: url(/FinsGram/assets/img/Group_754.svg);
     top: 10px;
     left: 146px;
     z-index: -1;
@@ -827,7 +827,7 @@ hr {
 
 .persons__button::before {
     position: absolute;
-    content: url(assets/img/star.svg);
+    content: url(/FinsGram/assets/img/star.svg);
     left: -242px;
     top: -93px;
     width: 89px;
@@ -888,7 +888,7 @@ hr {
 
 .news__photo__first::before {
     position: absolute;
-    content: url(assets/img/Group_755.svg);
+    content: url(/FinsGram/assets/img/Group_755.svg);
     width: 463px;
     height: 516px;
     top: -110px;
@@ -898,7 +898,7 @@ hr {
 
 .news__photo__first::after {
     position: absolute;
-    content: url(assets/img/Purple.png);
+    content: url(/FinsGram/assets/img/Purple.png);
     width: 380px;
     height: 297px;
     bottom: -280px;
@@ -922,7 +922,7 @@ hr {
 
 .news__photo__third::before {
     position: absolute;
-    content: url(assets/img/blur_4.svg);
+    content: url(/FinsGram/assets/img/blur_4.svg);
     width: 523px;
     height: 523px;
     top: -71px;
@@ -932,7 +932,7 @@ hr {
 
 .news__photo__third::after {
     position: absolute;
-    content: url(assets/img/Group_755.svg);
+    content: url(/FinsGram/assets/img/Group_755.svg);
     width: 618px;
     height: 580px;
     top: -31px;
@@ -948,7 +948,7 @@ hr {
 
 .organization::before {
     position: absolute;
-    content: url(assets/img/Vector2.png);
+    content: url(/FinsGram/assets/img/Vector2.png);
     top: 120px;
     left: 0;
     z-index: -1;
@@ -1093,7 +1093,7 @@ hr {
 
 .partners__image::after {
     position: absolute;
-    content: url(assets/img/blur_4.svg);
+    content: url(/FinsGram/assets/img/blur_4.svg);
     bottom: -182.5px;
     right: -212.5px;
     width: 335px;
@@ -1221,7 +1221,7 @@ hr {
 
 .form__title::after {
     position: absolute;
-    content: url(assets/img/Mask_group.png);
+    content: url(/FinsGram/assets/img/Mask_group.png);
     width: 260px;
     height: 260px;
     top: -144px;
@@ -1230,7 +1230,7 @@ hr {
 
 .form__title::before {
     position: absolute;
-    content: url(assets/img/blur_4.svg);
+    content: url(/FinsGram/assets/img/blur_4.svg);
     width: 260px;
     height: 260px;
     top: -244px;
@@ -1255,7 +1255,7 @@ hr {
 
 .form__zayavka::before {
     position: absolute;
-    content: url(assets/img/image_40.png);
+    content: url(/FinsGram/assets/img/image_40.png);
     width: 273px;
     height: 275px;
     bottom: -123px;
@@ -1264,7 +1264,7 @@ hr {
 
 .form__zayavka::after {
     position: absolute;
-    content: url(assets/img/Group_759.svg);
+    content: url(/FinsGram/assets/img/Group_759.svg);
     width: 414px;
     height: 457px;
     bottom: -197px;
@@ -1353,7 +1353,7 @@ input[type="submit"] {
 
 .contact__logo::after {
     position: absolute;
-    content: url(assets/img/blur_4.svg);
+    content: url(/FinsGram/assets/img/blur_4.svg);
     width: 292px;
     height: 292px;
     top: -215px;
@@ -1396,7 +1396,7 @@ input[type="submit"] {
 
 .contact__adress::after {
     position: absolute;
-    content: url(assets/img/star.svg);
+    content: url(/FinsGram/assets/img/star.svg);
     width: 77px;
     height: 77px;
     bottom: -222px;
@@ -1437,7 +1437,7 @@ input[type="submit"] {
 .contact__image {
     width: 544px;
     height: 544px;
-    background-image: url(assets/img/blur_4.svg);
+    background-image: url(/FinsGram/assets/img/blur_4.svg);
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
@@ -1446,7 +1446,7 @@ input[type="submit"] {
 
 .contact__image::before {
     position: absolute;
-    content: url(assets/img/star.svg);
+    content: url(/FinsGram/assets/img/star.svg);
     width: 138px;
     height: 138px;
     top: 79px;
@@ -1458,7 +1458,7 @@ input[type="submit"] {
 }
 
 .contact__wait {
-    background-image: url(assets/img/Star_2.svg);
+    background-image: url(/FinsGram/assets/img/Star_2.svg);
     background-position: center;
     background-repeat: no-repeat;
     background-size: contain;
